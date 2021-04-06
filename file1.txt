@@ -1,0 +1,7 @@
+this is a basic text file.
+
+list random 
+colors of the rainbow:
+1. red 
+2. orange
+3. yellow.
